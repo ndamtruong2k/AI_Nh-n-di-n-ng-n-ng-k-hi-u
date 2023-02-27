@@ -1,6 +1,6 @@
 # Nhận diện ngôn ngữ ký hiệu
 Giao tiếp với người khiếm thính là một thử thách khó khăn. Người khiếm thính sử dụng ngôn ngữ ký hiệu để giao tiếp, người bình thường muốn hiểu được người khiếm thính nói gì cần phải đối mặt với việc học ngôn ngữ ký hiệu. Điều này gây cản trở trong giao tiếp. Ngôn ngữ ký hiệu sử dụng cử chỉ tay và biểu cảm khuôn mặt. Trong đó cử chỉ tay để nhận diện các chữ cái và các từ. Sử dụng mô hình mạng khoa học thần kinh học sâu để dự đoán dấu hiệu từ ngữ.
-
+Đường dẫn đến Google Folder [here](https://drive.google.com/drive/folders/1W0URmjXwF7EPxKFNY_At-IXnAoUJUjpv)
 ## 1. Mục tiêu:
 Để nhận biết được ngôn ngữ ký hiệu sử dụng trí tuệ nhân tạo có các phương pháp dựa trên cảm biến và phương pháp dựa trên Vision:
 
