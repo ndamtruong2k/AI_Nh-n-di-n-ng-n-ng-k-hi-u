@@ -40,6 +40,9 @@ Sau khi mô hình được huấn luyện qua 50 epoch, độ chính xác của 
 <img src = "https://github.com/ndamtruong2k/AI_Sign-language-recognition/blob/main/src/loss.png">
 
 ### 3.2. Video kết quả:
+![Video_0](src/ILOVEYOU_2.mp4)
+
+![Video_1](src/neural_science.avi)
 
 
 
